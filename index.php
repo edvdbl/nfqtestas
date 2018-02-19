@@ -195,7 +195,13 @@ if(isset($_POST["submit"]))
         negalėtų pasiekti tikroje sistemoje, jis būtų matomas tik prisijungus. Aktyvi nuoroda į užsakymų sąrašą palikta
         tik tikrinimo patogumui. Be mokėjimų informacijos įvedimo ir krepšelio formavimo, tokia užsakymo/kontaktų forma
         leido panaudoti užsakymų .json failą ir duomenų rašymą į jį, bei šio failo surinktų duomenų atvaizdavimą užsakymų sąraše.
+        <a href="https://github.com/edvdbl/nfqtestas">Projekto repositorija HitHub</a>
     </p>
+</div>
+<div class="container" style="display: block">
+    <a href="https://github.com/edvdbl/nfqtestas">
+        <img src="/img/github.png" alt="GitHub Logo" style="display: block; margin: 20px">
+    </a>
 </div>
 
 </body>
